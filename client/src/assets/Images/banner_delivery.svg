@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="122" height="114" viewBox="0 0 122 114">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fca44e"/>
+      <stop offset="1" stop-color="#f15252"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-delivery-light" transform="translate(5 11)">
+    <g id="Groupe_364" data-name="Groupe 364">
+      <g id="Groupe_353" data-name="Groupe 353" opacity="0.05">
+        <circle id="Ellipse_166" data-name="Ellipse 166" cx="8" cy="8" r="8" transform="translate(48 38)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_354" data-name="Groupe 354" opacity="0.05">
+        <circle id="Ellipse_167" data-name="Ellipse 167" cx="16" cy="16" r="16" transform="translate(40 30)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_355" data-name="Groupe 355" opacity="0.05">
+        <path id="Tracé_244" data-name="Tracé 244" d="M66,67.825a23.977,23.977,0,1,0-20,0" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_356" data-name="Groupe 356" opacity="0.05">
+        <path id="Tracé_245" data-name="Tracé 245" d="M46,76.407a32,32,0,1,1,20,0" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_357" data-name="Groupe 357" opacity="0.05">
+        <path id="Tracé_246" data-name="Tracé 246" d="M66,84.74a40,40,0,1,0-20,0" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_358" data-name="Groupe 358" opacity="0.05">
+        <path id="Tracé_247" data-name="Tracé 247" d="M46,92.957a48,48,0,1,1,20,0" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_359" data-name="Groupe 359" opacity="0.05">
+        <circle id="Ellipse_168" data-name="Ellipse 168" cx="56" cy="56" r="56" transform="translate(0 -10)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_360" data-name="Groupe 360">
+        <path id="Tracé_248" data-name="Tracé 248" d="M116,4V92H92V4Z" fill="#fff"/>
+        <path id="Tracé_249" data-name="Tracé 249" d="M116,3.5h.5v89h-25V3.5H116Z" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+      </g>
+      <g id="Groupe_361" data-name="Groupe 361">
+        <path id="Tracé_250" data-name="Tracé 250" d="M-4,4V92H20V4Z" fill="#fff"/>
+        <path id="Tracé_251" data-name="Tracé 251" d="M-4,3.5h-.5v89h25V3.5H-4Z" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+      </g>
+      <g id="Groupe_362" data-name="Groupe 362" opacity="0.3">
+        <path id="Tracé_252" data-name="Tracé 252" d="M52,61.5V97" fill="none" stroke="#fca44e" stroke-linecap="round" stroke-width="2"/>
+      </g>
+      <g id="Groupe_363" data-name="Groupe 363" opacity="0.3">
+        <path id="Tracé_253" data-name="Tracé 253" d="M60,61.5V97" fill="none" stroke="#fca44e" stroke-linecap="round" stroke-width="2"/>
+      </g>
+    </g>
+    <g id="Groupe_365" data-name="Groupe 365">
+      <circle id="Ellipse_169" data-name="Ellipse 169" cx="16" cy="16" r="16" transform="translate(40 30)" fill="#fff"/>
+      <circle id="Ellipse_170" data-name="Ellipse 170" cx="16.5" cy="16.5" r="16.5" transform="translate(39.5 29.5)" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+    </g>
+    <circle id="Ellipse_171" data-name="Ellipse 171" cx="13.5" cy="13.5" r="13.5" transform="translate(42.5 32.5)" fill="none" stroke="#e5e7eb" stroke-width="1"/>
+    <path id="Tracé_254" data-name="Tracé 254" d="M54.626,39.894,49.5,51.616a1.5,1.5,0,0,0,1.908,2l4.416-1.682a.5.5,0,0,1,.356,0l4.416,1.682a1.5,1.5,0,0,0,1.908-2L57.374,39.894A1.5,1.5,0,0,0,54.626,39.894Z" stroke="#fca44e" stroke-width="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

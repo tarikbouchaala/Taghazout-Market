@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <g id="icon-gift-card-light" transform="translate(-7)">
+    <g id="Groupe_366" data-name="Groupe 366" opacity="0.1">
+      <circle id="Ellipse_172" data-name="Ellipse 172" cx="40" cy="40" r="40" transform="translate(16 9)" fill="none" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g id="Groupe_367" data-name="Groupe 367" opacity="0.1">
+      <circle id="Ellipse_173" data-name="Ellipse 173" cx="48" cy="48" r="48" transform="translate(8 1)" fill="none" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g id="Groupe_368" data-name="Groupe 368" opacity="0.1">
+      <circle id="Ellipse_174" data-name="Ellipse 174" cx="32" cy="32" r="32" transform="translate(24 17)" fill="none" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g id="Groupe_369" data-name="Groupe 369" opacity="0.1">
+      <circle id="Ellipse_175" data-name="Ellipse 175" cx="24" cy="24" r="24" transform="translate(32 25)" fill="none" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g id="Groupe_370" data-name="Groupe 370" opacity="0.1">
+      <circle id="Ellipse_176" data-name="Ellipse 176" cx="16" cy="16" r="16" transform="translate(40 33)" fill="none" stroke="#111827" stroke-width="2"/>
+    </g>
+    <g id="Groupe_371" data-name="Groupe 371" opacity="0.2">
+      <path id="Tracé_255" data-name="Tracé 255" d="M34,71H78l5.106-10.211A4,4,0,0,0,79.528,55H32.472a4,4,0,0,0-3.578,5.789Z" fill="#fbb03b"/>
+    </g>
+    <g id="Groupe_372" data-name="Groupe 372">
+      <rect id="Rectangle_734" data-name="Rectangle 734" width="56" height="40" rx="4" transform="translate(28 27)" fill="#fff"/>
+      <rect id="Rectangle_735" data-name="Rectangle 735" width="57" height="41" rx="4.5" transform="translate(27.5 26.5)" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+    </g>
+    <path id="Tracé_256" data-name="Tracé 256" d="M83,35,36,66H80a3,3,0,0,0,3-3Z" fill="#f3f4f6"/>
+    <path id="Tracé_257" data-name="Tracé 257" d="M30,47H82" fill="none" stroke="#fca44e" stroke-width="2"/>
+    <path id="Tracé_258" data-name="Tracé 258" d="M56,29V65" fill="none" stroke="#fca44e" stroke-width="2"/>
+    <path id="Tracé_259" data-name="Tracé 259" d="M65.121,42.121C63.95,43.293,56.5,47.5,56,47s3.707-7.95,4.879-9.121a3,3,0,0,1,4.243,4.243Z" fill="none" stroke="#fca44e" stroke-width="2"/>
+    <path id="Tracé_260" data-name="Tracé 260" d="M47,42.121C48.172,43.293,55.5,47.5,56,47s-3.586-7.95-4.757-9.121A3,3,0,0,0,47,42.121Z" fill="none" stroke="#fca44e" stroke-width="2"/>
+    <path id="Tracé_261" data-name="Tracé 261" d="M61,52l-5-5-5,5" fill="none" stroke="#fbb03b" stroke-linecap="round" stroke-width="2"/>
+  </g>
+</svg>

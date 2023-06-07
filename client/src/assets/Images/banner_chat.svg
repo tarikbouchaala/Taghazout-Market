@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="114" height="143" viewBox="0 0 114 143">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fca44e"/>
+      <stop offset="1" stop-color="#f15252"/>
+    </linearGradient>
+  </defs>
+  <g id="icon-chat-light" transform="translate(1 20)">
+    <g id="Groupe_349" data-name="Groupe 349">
+      <g id="Groupe_340" data-name="Groupe 340" opacity="0.1">
+        <circle id="Ellipse_156" data-name="Ellipse 156" cx="8" cy="8" r="8" transform="translate(48 58)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_341" data-name="Groupe 341" opacity="0.1">
+        <circle id="Ellipse_157" data-name="Ellipse 157" cx="16" cy="16" r="16" transform="translate(40 50)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_342" data-name="Groupe 342" opacity="0.1">
+        <circle id="Ellipse_158" data-name="Ellipse 158" cx="24" cy="24" r="24" transform="translate(32 42)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_343" data-name="Groupe 343" opacity="0.1">
+        <circle id="Ellipse_159" data-name="Ellipse 159" cx="32" cy="32" r="32" transform="translate(24 34)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_344" data-name="Groupe 344" opacity="0.1">
+        <circle id="Ellipse_160" data-name="Ellipse 160" cx="40" cy="40" r="40" transform="translate(16 26)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_345" data-name="Groupe 345" opacity="0.1">
+        <circle id="Ellipse_161" data-name="Ellipse 161" cx="48" cy="48" r="48" transform="translate(8 18)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_346" data-name="Groupe 346" opacity="0.1">
+        <circle id="Ellipse_162" data-name="Ellipse 162" cx="56" cy="56" r="56" transform="translate(0 10)" fill="none" stroke="#111827" stroke-width="2"/>
+      </g>
+      <g id="Groupe_347" data-name="Groupe 347" opacity="0.2">
+        <path id="Tracé_237" data-name="Tracé 237" d="M42,72H70l5.106-10.211A4,4,0,0,0,71.528,56H40.472a4,4,0,0,0-3.578,5.789Z" fill="#fbb03b"/>
+      </g>
+      <g id="Groupe_348" data-name="Groupe 348">
+        <path id="Tracé_238" data-name="Tracé 238" d="M12-19h88a8,8,0,0,1,8,8V58a8,8,0,0,1-8,8H12a8,8,0,0,1-8-8V-11A8,8,0,0,1,12-19Z" fill="#fff"/>
+        <path id="Tracé_239" data-name="Tracé 239" d="M12-19.5h88a8.5,8.5,0,0,1,8.5,8.5V58a8.5,8.5,0,0,1-8.5,8.5H12A8.5,8.5,0,0,1,3.5,58V-11A8.5,8.5,0,0,1,12-19.5Z" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+      </g>
+    </g>
+    <g id="Groupe_350" data-name="Groupe 350">
+      <path id="Tracé_240" data-name="Tracé 240" d="M36,24a4,4,0,0,1,4-4H72a4,4,0,0,1,4,4V42.231a4,4,0,0,1-3.763,3.993l-12.1.719a2,2,0,0,0-1.516.844l-.985,1.4a2,2,0,0,1-3.269,0l-.985-1.4a2,2,0,0,0-1.516-.844l-12.1-.719A4,4,0,0,1,36,42.231Z" fill="#fff"/>
+      <path id="Tracé_241" data-name="Tracé 241" d="M40,19.5A4.5,4.5,0,0,0,35.5,24V42.231a4.5,4.5,0,0,0,4.233,4.492l12.1.719a1.5,1.5,0,0,1,1.137.633l.985,1.4a2.5,2.5,0,0,0,4.086,0l.985-1.4a1.5,1.5,0,0,1,1.137-.633l12.1-.719A4.5,4.5,0,0,0,76.5,42.231V24A4.5,4.5,0,0,0,72,19.5Z" fill="none" stroke="rgba(18,24,38,0.08)" stroke-width="1"/>
+    </g>
+    <rect id="Rectangle_733" data-name="Rectangle 733" width="18" height="3" rx="1" transform="translate(42 26)" fill="#fbb03b"/>
+    <path id="Tracé_242" data-name="Tracé 242" d="M42,34a1,1,0,0,1,1-1H67a1,1,0,0,1,0,2H43A1,1,0,0,1,42,34Z" fill="#e5e7eb"/>
+    <path id="Tracé_243" data-name="Tracé 243" d="M42,39a1,1,0,0,1,1-1H67a1,1,0,0,1,0,2H43A1,1,0,0,1,42,39Z" fill="#e5e7eb"/>
+    <g id="Groupe_351" data-name="Groupe 351">
+      <circle id="Ellipse_163" data-name="Ellipse 163" cx="8" cy="8" r="8" transform="translate(48 58)" fill="url(#linear-gradient)"/>
+      <circle id="Ellipse_164" data-name="Ellipse 164" cx="8.5" cy="8.5" r="8.5" transform="translate(47.5 57.5)" fill="none" stroke="#fca44e" stroke-width="1"/>
+    </g>
+    <g id="Groupe_352" data-name="Groupe 352">
+      <circle id="Ellipse_165" data-name="Ellipse 165" cx="2" cy="2" r="2" transform="translate(54 64)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

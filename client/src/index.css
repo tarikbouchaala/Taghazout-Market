@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;1,500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input[type="radio"]:checked + span {
+  @apply block;
+}
+
+.slider {
+  width: 80%;
+  height: 2px;
+  background-color: lightgrey;
+  margin-top: 16px;
+  align-self: center;
+}
+.slider .thumb {
+  width: 23px;
+  height: 23px;
+  cursor: grab;
+  background-color: white;
+  border-radius: 50%;
+  border: 2px solid orange;
+  top: -12px;
+  outline: none;
+}
+
+
+
+
+.slick-prev:before,
+.slick-next:before {
+  color:#F37334!important;
+}
