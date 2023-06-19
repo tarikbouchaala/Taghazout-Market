@@ -412,7 +412,8 @@ export default function Store() {
                               oldPrice={product.original_price}
                               images={product.images}
                               inCart={cart.findIndex(productInCart => productInCart.product_id == product.id) != -1}
-                              inWishlist={!wishlist ? false : wishlist.findIndex(productInWishlist => productInWishlist.product_id === product.id) !== -1} onClick={e => navigate('/product/' + product.id)}
+                              inWishlist={!wishlist ? false : wishlist.findIndex(productInWishlist => productInWishlist.product_id === product.id) !== -1}
+                              onClick={e => navigate('/product/' + product.id)}
                             />)
                       }
                     </div>

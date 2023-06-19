@@ -140,7 +140,7 @@ export default function ClientOrderDetial() {
                             Total amount
                           </dt>
                           <dd className="mt-1 font-medium text-gray-900">
-                            ${(Total-(Order?.coupon_discount)).toFixed(2)}
+                            ${(Total).toFixed(2)}
                           </dd>
                         </div>
                         <div>

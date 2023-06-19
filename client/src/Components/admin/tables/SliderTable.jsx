@@ -48,14 +48,14 @@ function SliderTable() {
             </p>
           </div>
           <div className="flex items-center">
-            <NavLink to={'/dashboard/admin/slider/add'}>      
+            <NavLink to={'/dashboard/admin/slider/add'}>
               <button className="px-6 py-2 text-lg font-medium text-white bg-gradient-to-r from-red-500 to-yellow-400  disabled:opacity-50">
                 Add sliders
               </button>
             </NavLink>
           </div>
         </div>
-        <section className="container px-4 mx-auto">
+        {sliders?.length != 0 && <section className="container px-4 mx-auto">
           <div className="flex flex-col mt-6">
             <div className="-mx-4 -my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
               <div className="inline-block min-w-full py-2 align-middle md:px-6 lg:px-8">
@@ -229,7 +229,8 @@ function SliderTable() {
               </div>
             </div>
           </div>
-        </section>
+        </section>}
+
         {isOpen && (
           <div className="fixed inset-0 z-50  overflow-y-auto">
             <div className="fixed inset-0 bg-slate-900/25 backdrop-blur transition-opacity opacity-100" ></div>

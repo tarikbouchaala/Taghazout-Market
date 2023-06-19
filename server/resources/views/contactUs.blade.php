@@ -363,35 +363,29 @@
                                                                     </p>
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        We are writing this email to acknowledge that we
-                                                                        have received your message. Thank you for taking
-                                                                        the time to write to us.<br><br>Our team is
-                                                                        currently reviewing your message and will get
-                                                                        back to you with a response shortly.<br><br>If
-                                                                        you have any further questions or concerns,
-                                                                        please do not hesitate to reach out to us. We
-                                                                        are always happy to help.</p>
+                                                                        I wanted to reach out and personally acknowledge
+                                                                        that we have received your message. Thank you so
+                                                                        much for taking the time to write to us.
+                                                                        <br><br>
+                                                                        I want to assure you that our team is actively
+                                                                        reviewing your message at the moment.
+                                                                        <br><br>
+                                                                        If you have any additional questions or
+                                                                        concerns, please don't hesitate to contact us.
+                                                                        We genuinely appreciate the opportunity to
+                                                                        assist you and we are always here to help.
+                                                                    </p>
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        Thank you for your patience, and we look forward
-                                                                        to speaking with you soon.</p>
+                                                                        Thank you once again for reaching out to us.
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
                                                                         <br><br>
                                                                     </p>
                                                                     <p
                                                                         style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        Best regards,</p>
-                                                                    <p
-                                                                        style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        <br>
-                                                                    </p>
-                                                                    <p
-                                                                        style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        Tarik Bouchaala </p>
-                                                                    <p
-                                                                        style="Margin:0;-webkit-text-size-adjust:none;-ms-text-size-adjust:none;mso-line-height-rule:exactly;font-family:Imprima, Arial, sans-serif;line-height:27px;color:#333333;font-size:18px">
-                                                                        <br>Founders of Taghazout Market
+                                                                        Warm regards,
+                                                                        <br><br>Founder of Taghazout Market
                                                                     </p>
                                                                 </td>
                                                             </tr>

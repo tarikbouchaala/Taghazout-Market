@@ -186,7 +186,7 @@ export default function Example() {
                                                     <Menu.Button className="flex max-w-xs items-center rounded-full text-sm hover:text-gray-400 focus:outline-none ">
                                                         <span className="sr-only">Open user menu</span>
                                                         {connected_user ?
-                                                            <div className="user-image bg-indigo-500 w-8 h-8 flex justify-center items-center rounded-full">
+                                                            <div className="user-image bg-orange-500 w-8 h-8 flex justify-center items-center rounded-full">
                                                                 <span className="initial select-none text-white font-medium">{connected_user.full_name?.charAt(0)}</span>
                                                             </div>
                                                             : <UserIcon className="h-6  w-6" aria-hidden="true" />
@@ -276,7 +276,7 @@ export default function Example() {
                                             className="relative rounded-full p-1 text-black hover:text-gray-400 focus:outline-none mx-2"
                                         >
                                             {connected_user ?
-                                                <div className="user-image bg-indigo-500 w-8 h-8 flex justify-center items-center rounded-full">
+                                                <div className="user-image bg-orange-500 w-8 h-8 flex justify-center items-center rounded-full">
                                                     <span className="initial select-none text-white font-medium">{connected_user.full_name.charAt(0)}</span>
                                                 </div>
                                                 : <UserIcon className="h-6  w-6" aria-hidden="true" />

@@ -43,22 +43,22 @@ function Fotter() {
             <>
               <div className="flex flex-col items-start mt-5 space-y-2 ">
                 <NavHashLink
-                to="/#trendingP"
-                smooth
+                  to="/#trendingP"
+                  smooth
                   className="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400  "
                 >
                   Trending Products
                 </NavHashLink>
                 <NavHashLink
-                to="/#FeaturedP"
-                smooth
+                  to="/#FeaturedP"
+                  smooth
                   className="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400  "
                 >
                   Featured Products
                 </NavHashLink>
                 <NavHashLink
-                to="/#NewArrivalP"
-                smooth
+                  to="/#NewArrivalP"
+                  smooth
                   className="text-gray-600 transition-colors duration-300 dark:text-gray-300 dark:hover:text-blue-400  "
                 >
                   New Arrival Products
@@ -123,12 +123,7 @@ function Fotter() {
 
           <hr className="my-6 border-gray-200 md:my-10 dark:border-gray-700" />
 
-          <div className="flex justify-center items-center">
-            <p className="mt-4 flex justify-center items-center uppercase text-sm text-gray-500 sm:mt-0 dark:text-gray-300">
-
-              <p className="mx-2 text-center">TAGHAZOUT MARKET - © 2023. ALL RIGHTS RESERVED.</p>
-            </p>
-          </div>
+          <div className="flex justify-center items-center"><p className="mx-2 text-center">Copyright Taghazout Market 2023 | All Rights Reserved</p></div>
         </div>
       </footer>
     </div>
